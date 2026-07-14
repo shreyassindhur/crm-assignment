@@ -1,6 +1,6 @@
 # Ticket-CRM
 
-A full-stack customer support ticketing system built with FastAPI, SQLite, and Tailwind CSS. Built by Shreyas Sindhur.
+A full-stack customer support ticketing system built with FastAPI, SQLite, and Tailwind CSS.
 
 ## Tech Stack
 
